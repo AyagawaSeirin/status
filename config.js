@@ -2,10 +2,10 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '凛服务器监控',
 
   // 站点链接
-  SiteUrl: 'https://status.qwq.best/',
+  SiteUrl: 'https://status.owomoe.net/',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
@@ -28,7 +28,7 @@ window.Config = {
   Navi: [
     {
       text: 'Blog',
-      url: 'https://qwq.best/'
+      url: 'https://owomoe.net/'
     },
     {
       text: 'GitHub',
